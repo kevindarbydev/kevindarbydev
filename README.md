@@ -116,7 +116,19 @@
 <p align="center">Other tools and languages I like to work with outside of work.</p>
 
 <table align="center">
-  <tr>    
+  <tr>   
+      <td align="center" width="96">
+      <a href="#kevindarbydev-hobby-tech">
+        <img src="./img/laravel-img.png" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Laravel
+    </td> 
+      <td align="center" width="96">
+      <a href="#kevindarbydev-hobby-tech">
+        <img src="./img/mongodb-img.png" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td> 
     <td align="center" width="96"> 
       <a href="#kevindarbydev-hobby-tech" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
@@ -135,6 +147,25 @@
       </a>
       <br>Sass
     </td> 
+      <td align="center" width="96">
+      <a href="#kevindarbydev-hobby-tech">
+        <img src="./img/gatsby-img.png" width="48" height="48" alt="Gatsby" />
+      </a>
+      <br>Gatsby
+    </td> 
+     <td align="center" width="96">
+      <a href="#kevindarbydev-hobby-tech">
+        <img src="./img/graphql-img.png" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td> 
+     <td align="center" width="96">
+      <a href="#kevindarbydev-hobby-tech">
+        <img src="./img/next-img.png" width="48" height="48" alt="Next" />
+      </a>
+      <br>Next
+    </td> 
+      </td>     
   </tr>
 </table>
 
