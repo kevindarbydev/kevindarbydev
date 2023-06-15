@@ -17,11 +17,12 @@
   - &nbsp; Advanced Front-end development 
   - &nbsp; Containerization (Docker)
   - &nbsp; Server-side rendering frameworks (Next.js, Gatsby.js)
-  - &nbsp; Lighthouse/ Performance optimization
+  - &nbsp; Lighthouse Metrics & Performance optimization
+  - &nbsp; 3D Rendering (Three.js, Unity)
 - 🧠 &nbsp; Interests include:
   - &nbsp; Full-Stack Development
   - &nbsp; Learning new stacks and frameworks
-  - &nbsp; Automation for games and websites  
+  - &nbsp; Desktop process automation
   - &nbsp; Game Hacking
   - &nbsp; Contributing to Open Source
   - &nbsp; Participating in Hackathons
@@ -113,7 +114,7 @@
 
 ---
 
-<p align="center">Other tools and languages I like to use/ experiment with outside of work.</p>
+<p align="center">Other tools and languages I like to use/experiment with outside of work.</p>
 
 <table align="center">
   <tr>   
