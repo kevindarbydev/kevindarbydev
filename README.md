@@ -113,7 +113,7 @@
 
 ---
 
-<p align="center">Other tools and languages I like to work with outside of work.</p>
+<p align="center">Other tools and languages I like to use/ experiment with outside of work.</p>
 
 <table align="center">
   <tr>   
