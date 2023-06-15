@@ -168,6 +168,7 @@
       </td>     
   </tr>
 </table>
+Please excuse the white backgrounds until I replace with svgs :)
 
 <!---
 kevindarbydev/kevindarbydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
