@@ -83,12 +83,12 @@
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+       <td align="center" width="96">
       <a href="#kevindarbydev-professional-tech">
-        <img src="./img/jquery-icon.svg" width="48" height="48" alt="Jquery" />
+        <img src="./img/java-icon.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Jquery
-    </td>
+      <br>Java
+    </td>  
     <td align="center" width="96">
       <a href="#kevindarbydev-professional-tech">
         <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
@@ -96,11 +96,12 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#kevindarbydev-professional-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+      <a href="#kevindarbydev-professional-tech" >
+        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
       </a>
-      <br>Sass
+      <br>React
     </td>
+   
    
   </tr>
 </table>
@@ -115,43 +116,7 @@
 <p align="center">Other tools and languages I like to work with outside of work.</p>
 
 <table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#kevindarbydev-hobby-tech">
-        <img src="./img/java-icon.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#kevindarbydev-hobby-tech">
-        <img src="./img/asm-logo.svg" width="48" height="48" alt="Java ObjectWeb ASM" />
-      </a>
-      <br>Java&nbsp;ASM
-    </td>
-    <td align="center" width="96">
-      <a href="#kevindarbydev-hobby-tech">
-        <img src="./img/rust-logo.svg" width="48" height="48" alt="Rust-Lang" />
-      </a>
-      <br>Rust
-    </td>
-    <td align="center" width="96">
-      <a href="#kevindarbydev-hobby-tech">
-        <img src="./img/logo_Cplusplus.svg" width="48" height="48" alt="Cpp" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#kevindarbydev-hobby-tech">
-        <img src="./img/logo-asm.svg" width="48" height="48" alt="Assembly" />
-      </a>
-      <br>Assembly
-    </td>
-    <td align="center" width="96">
-      <a href="#kevindarbydev-hobby-tech">
-        <img src="./img/celogo.png" width="48" height="48" alt="CheatEngine" />
-      </a>
-      <br>CheatEngine
-    </td>
+  <tr>    
     <td align="center" width="96"> 
       <a href="#kevindarbydev-hobby-tech" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
@@ -164,12 +129,12 @@
       </a>
       <br>Redis
     </td>
-    <td align="center" width="96">
-      <a href="#kevindarbydev-hobby-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+     <td align="center" width="96">
+      <a href="#kevindarbydev-hobby-tech">
+        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
-      <br>React
-    </td>
+      <br>Sass
+    </td> 
   </tr>
 </table>
 
