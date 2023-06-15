@@ -38,7 +38,7 @@
 <a href="#kevindarbydev-stats">
 <img src="https://raw.githubusercontent.com/kevindarbydev/github-stats-transparent/output/generated/overview.svg" alt="kevindarbydev Overview" />
 </a>
-<a href="#lostvirt-stats">
+<a href="#kevindarbydev-stats">
 <img src="https://raw.githubusercontent.com/kevindarbydev/github-stats-transparent/output/generated/languages.svg" alt="kevindarbydev Languages" />
 </a>
 </p>
