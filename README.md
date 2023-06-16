@@ -8,13 +8,12 @@
   </a>
 </p>
 
-
 ### Hello there! Welcome to my profile 👋
 
 - 🏢 &nbsp; I'm a **Full-Stack React + Java/.NET Developer**
 - 🌱 &nbsp; I’m currently expanding my knowledge in:
   - &nbsp; C# & .NET
-  - &nbsp; Advanced Front-end development 
+  - &nbsp; Advanced Front-end development
   - &nbsp; Containerization (Docker)
   - &nbsp; Server-side rendering frameworks (Next.js, Gatsby.js)
   - &nbsp; Lighthouse Metrics & Performance optimization
@@ -31,7 +30,6 @@
 <br>
 
 ### <p align="center" id="kevindarbydev-stats">Github Stats</p>
-
 
 ---
 
@@ -90,6 +88,12 @@
       </a>
       <br>Java
     </td>  
+     <td align="center" width="96">
+      <a href="#kevindarbydev-professional-tech" >
+        <img src="./img/spring-3.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>Spring Boot
+    </td>
     <td align="center" width="96">
       <a href="#kevindarbydev-professional-tech">
         <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
@@ -102,11 +106,16 @@
       </a>
       <br>React
     </td>
+     <td align="center" width="96">
+      <a href="#kevindarbydev-professional-tech" >
+        <img src="./img/tailwindcss.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>Tailwind
+    </td>
    
    
   </tr>
 </table>
-
 
 <br>
 
@@ -120,13 +129,13 @@
   <tr>   
       <td align="center" width="96">
       <a href="#kevindarbydev-hobby-tech">
-        <img src="./img/laravel-img.png" width="48" height="48" alt="Laravel" />
+        <img src="./img/laravel-icon.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td> 
       <td align="center" width="96">
       <a href="#kevindarbydev-hobby-tech">
-        <img src="./img/mongodb-img.png" width="48" height="48" alt="MongoDB" />
+        <img src="./img/mdb.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td> 
@@ -150,7 +159,7 @@
     </td> 
       <td align="center" width="96">
       <a href="#kevindarbydev-hobby-tech">
-        <img src="./img/gatsby-img.png" width="48" height="48" alt="Gatsby" />
+        <img src="./img/gatsby.svg" width="48" height="48" alt="Gatsby" />
       </a>
       <br>Gatsby
     </td> 
@@ -162,15 +171,20 @@
     </td> 
      <td align="center" width="96">
       <a href="#kevindarbydev-hobby-tech">
-        <img src="./img/next-img.png" width="48" height="48" alt="Next" />
+        <img src="./img/next-js.svg" width="48" height="48" alt="Next" />
       </a>
       <br>Next
     </td> 
-      </td>     
+    </td>     
+     <td align="center" width="96">
+      <a href="#kevindarbydev-hobby-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Next" />
+      </a>
+      <br>Python
+    </td> 
+    </td>    
   </tr>
 </table>
-Please excuse the white backgrounds until I replace with svgs :)
-
 <!---
 kevindarbydev/kevindarbydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
