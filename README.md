@@ -25,7 +25,7 @@
   - &nbsp; Game Hacking
   - &nbsp; Contributing to Open Source
   - &nbsp; Participating in Hackathons
-- 📫 &nbsp; Reach out to me on: **Discord** @ `nmjchbu`
+- 📫 &nbsp; You can reach me at [kevindarbydev@gmail.com](mailto:kevindarbydev@gmail.com)
 
 <br>
 
