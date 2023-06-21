@@ -25,7 +25,7 @@
   - &nbsp; Game Hacking
   - &nbsp; Contributing to Open Source
   - &nbsp; Participating in Hackathons
-- 📫 &nbsp; You can reach me at [kevindarbydev@gmail.com](mailto:kevindarbydev@gmail.com)
+- 📫 &nbsp; You can reach me at [kevindarbydev@gmail.com](mailto:kevindarbydev@gmail.com) and on [LinkedIn](https://www.linkedin.com/in/kevindarbydev/)
 
 <br>
 
