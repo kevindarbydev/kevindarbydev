@@ -18,6 +18,7 @@
   - &nbsp; Server-side rendering frameworks (Next.js, Gatsby.js)
   - &nbsp; Lighthouse Metrics & Performance optimization
   - &nbsp; Cloud (AWS) Best Practices
+    > Currently studying for AWS Certified Developer certification! 💪
 - 🧠 &nbsp; Interests include:
   - &nbsp; Full-Stack Development
   - &nbsp; Learning new stacks and frameworks
@@ -25,8 +26,6 @@
   - &nbsp; Game Hacking
   - &nbsp; Contributing to Open Source
   - &nbsp; Participating in Hackathons
-- 💪 &nbsp; Upcoming Certifications:
-  - &nbsp; AWS Certified Developer
 - 📫 &nbsp; You can reach me at [kevindarbydev@gmail.com](mailto:kevindarbydev@gmail.com) and on [LinkedIn](https://www.linkedin.com/in/kevindarbydev/)
 
 <br>
