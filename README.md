@@ -17,7 +17,7 @@
   - &nbsp; Containerization (Docker)
   - &nbsp; Server-side rendering frameworks (Next.js, Gatsby.js)
   - &nbsp; Lighthouse Metrics & Performance optimization
-  - &nbsp; 3D Rendering (Three.js, Unity)
+  - &nbsp; Cloud (AWS) Best Practices
 - 🧠 &nbsp; Interests include:
   - &nbsp; Full-Stack Development
   - &nbsp; Learning new stacks and frameworks
@@ -25,6 +25,8 @@
   - &nbsp; Game Hacking
   - &nbsp; Contributing to Open Source
   - &nbsp; Participating in Hackathons
+- 💪 &nbsp; Upcoming Certifications:
+  - &nbsp; AWS Certified Developer
 - 📫 &nbsp; You can reach me at [kevindarbydev@gmail.com](mailto:kevindarbydev@gmail.com) and on [LinkedIn](https://www.linkedin.com/in/kevindarbydev/)
 
 <br>
@@ -93,13 +95,7 @@
         <img src="./img/spring-3.svg" width="48" height="48" alt="React" />
       </a>
       <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <a href="#kevindarbydev-professional-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
+    </td>  
     <td align="center" width="96">
       <a href="#kevindarbydev-professional-tech" >
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
