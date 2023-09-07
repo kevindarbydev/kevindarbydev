@@ -12,10 +12,9 @@
 
 - 🏢 &nbsp; I'm a **Full-Stack React + Java/.NET Developer**
 - 🌱 &nbsp; I’m currently expanding my knowledge in:
-  - &nbsp; C# & .NET
-  - &nbsp; Advanced Front-end development
+  - &nbsp; Serverless Development
+  - &nbsp; Event Driven Architecture
   - &nbsp; Containerization (Docker)
-  - &nbsp; Server-side rendering frameworks (Next.js, Gatsby.js)
   - &nbsp; Lighthouse Metrics & Performance optimization
   - &nbsp; Cloud (AWS) Best Practices
     > Currently studying for AWS Certified Developer certification! 💪
