@@ -22,7 +22,7 @@
   - &nbsp; Full-Stack Development
   - &nbsp; Learning new stacks and frameworks
   - &nbsp; Desktop process automation
-  - &nbsp; Contributing to Open Source
+  - &nbsp; Contributing to Open Source projects
   - &nbsp; Participating in Hackathons
 - 📫 &nbsp; You can reach me at [kevindarbydev@gmail.com](mailto:kevindarbydev@gmail.com) and on [LinkedIn](https://www.linkedin.com/in/kevindarbydev/)
 
