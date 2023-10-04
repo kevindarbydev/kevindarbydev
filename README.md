@@ -24,6 +24,10 @@
   - &nbsp; Participating in Hackathons
 - 📫 &nbsp; You can reach me at [kevindarbydev@gmail.com](mailto:kevindarbydev@gmail.com) and on [LinkedIn](https://www.linkedin.com/in/kevindarbydev/)
 
+- 💪 &nbsp; I'm now an AWS Certified Developer!
+  <div align="center">
+   <img src="./img/aws-certified-developer-associate.png" width="48" height="48" alt="AWS Certification" />
+  </div>
 <br>
 
 ### <p align="center" id="kevindarbydev-stats">Github Stats</p>
