@@ -16,8 +16,6 @@
   - &nbsp; Event Driven Architecture
   - &nbsp; Containerization (Docker)
   - &nbsp; Lighthouse Metrics & Performance optimization
-  - &nbsp; Cloud (AWS) Best Practices
-    > Currently studying for AWS Certified Developer certification! 💪
 - 🧠 &nbsp; Interests include:
   - &nbsp; Full-Stack Development
   - &nbsp; Learning new stacks and frameworks
