@@ -12,12 +12,13 @@
 
 - 🏢 &nbsp; I'm a **Full-Stack React + Java/.NET Developer**
 - 🌱 &nbsp; I’m currently expanding my knowledge in:
-  - &nbsp; Serverless Development
-  - &nbsp; Event Driven Architecture
+  - &nbsp; Typescript & advanced frontend development
+  - &nbsp; Serverless development
+  - &nbsp; Event driven architecture
   - &nbsp; Containerization (Docker)
   - &nbsp; Lighthouse Metrics & Performance optimization
 - 🧠 &nbsp; Interests include:
-  - &nbsp; Full-Stack Development
+  - &nbsp; Full stack development
   - &nbsp; Learning new stacks and frameworks
   - &nbsp; Desktop process automation
   - &nbsp; Contributing to Open Source projects
