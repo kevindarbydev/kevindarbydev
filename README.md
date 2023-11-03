@@ -1,7 +1,7 @@
 <!-- Profile design inspired by https://github.com/Bonfire and https://github.com/MacroPower and https://github.com/LostVirt  -->
 <p align="center">
   <a href="https://github.com/kevindarbydev">
-    <img src="https://komarev.com/ghpvc/?username=kevindarbydev&color=yellow" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=kevindarbydev&color=red" alt="page views" />
   </a>
   <a href="https://github.com/kevindarbydev?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/kevindarbydev?color=red&logo=github">
@@ -12,7 +12,7 @@
 
 - 🏢 &nbsp; I'm a **Full-Stack React + Java/.NET Developer**
 - 🌱 &nbsp; I’m currently expanding my knowledge in:
-  - &nbsp; Typescript & advanced frontend development
+  - &nbsp; TypeScript & advanced frontend development
   - &nbsp; Serverless development
   - &nbsp; Vue.js
   - &nbsp; Containerization (Docker)
