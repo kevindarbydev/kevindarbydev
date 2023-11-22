@@ -13,7 +13,7 @@
 - 🏢 &nbsp; I'm a **Full-Stack React + Java/.NET Developer**
 - 🌱 &nbsp; I’m currently expanding my knowledge in:
   - &nbsp; TypeScript & advanced frontend development
-  - &nbsp; Serverless development
+  - &nbsp; Serverless development (currently building a Serverless Netlify clone!)
   - &nbsp; Vue.js
   - &nbsp; Containerization (Docker)
   - &nbsp; Lighthouse Metrics & Performance optimization
