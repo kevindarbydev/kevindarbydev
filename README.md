@@ -90,12 +90,12 @@
       </a>
       <br>Java
     </td>  
-     <td align="center" width="96">
-      <a href="#kevindarbydev-professional-tech" >
-        <img src="./img/spring-3.svg" width="48" height="48" alt="React" />
+    <td align="center" width="96">
+      <a href="#kevindarbydev-professional-tech">
+        <img src="./img/mdb.svg" width="48" height="48" alt="MongoDB" />
       </a>
-      <br>Spring Boot
-    </td>  
+      <br>MongoDB
+    </td>    
     <td align="center" width="96">
       <a href="#kevindarbydev-professional-tech" >
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
@@ -129,12 +129,12 @@
       </a>
       <br>Laravel
     </td> 
-      <td align="center" width="96">
-      <a href="#kevindarbydev-hobby-tech">
-        <img src="./img/mdb.svg" width="48" height="48" alt="MongoDB" />
+     <td align="center" width="96">
+      <a href="#kevindarbydev-hobby-tech" >
+        <img src="./img/spring-3.svg" width="48" height="48" alt="Spring Boot" />
       </a>
-      <br>MongoDB
-    </td> 
+      <br>Spring Boot
+    </td>  
     <td align="center" width="96"> 
       <a href="#kevindarbydev-hobby-tech" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
@@ -147,12 +147,6 @@
       </a>
       <br>Redis
     </td>
-     <td align="center" width="96">
-      <a href="#kevindarbydev-hobby-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td> 
       <td align="center" width="96">
       <a href="#kevindarbydev-hobby-tech">
         <img src="./img/gatsby.svg" width="48" height="48" alt="Gatsby" />
@@ -167,9 +161,9 @@
     </td> 
      <td align="center" width="96">
       <a href="#kevindarbydev-hobby-tech">
-        <img src="./img/next-js.svg" width="48" height="48" alt="Next" />
+        <img src="./img/next-js.svg" width="48" height="48" alt="Next.js" />
       </a>
-      <br>Next
+      <br>Next.js
     </td> 
     </td>     
      <td align="center" width="96">
