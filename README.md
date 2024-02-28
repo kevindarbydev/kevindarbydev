@@ -84,12 +84,6 @@
       </a>
       <br>TypeScript
     </td>
-       <td align="center" width="96">
-      <a href="#kevindarbydev-professional-tech">
-        <img src="./img/java-icon.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>  
     <td align="center" width="96">
       <a href="#kevindarbydev-professional-tech">
         <img src="./img/mdb.svg" width="48" height="48" alt="MongoDB" />
@@ -104,7 +98,7 @@
     </td>
      <td align="center" width="96">
       <a href="#kevindarbydev-professional-tech" >
-        <img src="./img/tailwindcss.svg" width="48" height="48" alt="React" />
+        <img src="./img/tailwindcss.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
@@ -123,12 +117,18 @@
 
 <table align="center">
   <tr>   
-      <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#kevindarbydev-hobby-tech">
         <img src="./img/laravel-icon.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td> 
+    <td align="center" width="96">
+      <a href="#kevindarbydev-hobby-tech">
+        <img src="./img/java-icon.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>  
      <td align="center" width="96">
       <a href="#kevindarbydev-hobby-tech" >
         <img src="./img/spring-3.svg" width="48" height="48" alt="Spring Boot" />
@@ -168,7 +168,7 @@
     </td>     
      <td align="center" width="96">
       <a href="#kevindarbydev-hobby-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Next" />
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td> 
