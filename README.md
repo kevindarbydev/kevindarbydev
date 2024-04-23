@@ -10,7 +10,7 @@
 
 ### Hello there! Welcome to my profile 👋
 
-- 🏢 &nbsp; I'm a **Full-Stack React + Java/.NET Developer**
+- 🏢 &nbsp; I'm a **Full-Stack React + Laravel/.NET Developer**
 - 🌱 &nbsp; I’m currently expanding my knowledge in:
   - &nbsp; TypeScript & advanced frontend development
   - &nbsp; Serverless development (currently building a Serverless Netlify clone!)
