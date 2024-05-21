@@ -10,19 +10,19 @@
 
 ### Hello there! Welcome to my profile 👋
 
-- 🏢 &nbsp; I'm a **Full-Stack React + Laravel/.NET Developer**
+- 🏢 &nbsp; I'm a **Full Stack React + Java/C#/PHP Developer**
 - 🌱 &nbsp; I’m currently expanding my knowledge in:
   - &nbsp; TypeScript & advanced frontend development
-  - &nbsp; Serverless development (currently building a Serverless Netlify clone!)
+  - &nbsp; Serverless development (currently building a serverless Netlify clone!)
   - &nbsp; Vue.js
   - &nbsp; Containerization (Docker)
-  - &nbsp; Lighthouse Metrics & Performance optimization
+  - &nbsp; Lighthouse metrics & performance optimization
 - 🧠 &nbsp; Interests include:
   - &nbsp; Full stack development
   - &nbsp; Learning new stacks and frameworks
   - &nbsp; Desktop process automation
-  - &nbsp; Contributing to Open Source projects
-  - &nbsp; Participating in Hackathons
+  - &nbsp; Contributing to open source projects
+  - &nbsp; Participating in hackathons
 - 📫 &nbsp; You can reach me at [kevindarbydev@gmail.com](mailto:kevindarbydev@gmail.com) and on [LinkedIn](https://www.linkedin.com/in/kevindarbydev/)
 
 - 💪 &nbsp; I'm proud to share that I am now an AWS Certified Developer!
