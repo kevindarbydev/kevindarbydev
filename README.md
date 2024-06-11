@@ -10,7 +10,7 @@
 
 ### Hello there! Welcome to my profile 👋
 
-- 🏢 &nbsp; I'm a **Full Stack React + Java/C#/PHP Developer**
+- 🏢 &nbsp; I'm a **Full Stack Java Developer**
 - 🌱 &nbsp; I’m currently expanding my knowledge in:
   - &nbsp; TypeScript & advanced frontend development
   - &nbsp; Serverless development (currently building a serverless Netlify clone!)
@@ -54,6 +54,18 @@
 
 <table align="center">
   <tr>
+     <td align="center" width="96">
+      <a href="#kevindarbydev-professional-tech">
+        <img src="./img/java-icon.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>  
+    <td align="center" width="96">
+      <a href="#kevindarbydev-professional-tech" >
+        <img src="./img/spring-3.svg" width="48" height="48" alt="Spring Boot" />
+      </a>
+      <br>Spring Boot
+    </td>  
     <td align="center" width="96">
       <a href="#kevindarbydev-professional-tech">
         <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
@@ -83,25 +95,19 @@
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#kevindarbydev-professional-tech">
-        <img src="./img/mdb.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>    
+    </td> 
     <td align="center" width="96">
       <a href="#kevindarbydev-professional-tech" >
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
-     <td align="center" width="96">
+<!--      <td align="center" width="96">
       <a href="#kevindarbydev-professional-tech" >
         <img src="./img/tailwindcss.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
-    </td>
+    </td> -->
    
    
   </tr>
@@ -123,18 +129,6 @@
       </a>
       <br>Laravel
     </td> 
-    <td align="center" width="96">
-      <a href="#kevindarbydev-hobby-tech">
-        <img src="./img/java-icon.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>  
-     <td align="center" width="96">
-      <a href="#kevindarbydev-hobby-tech" >
-        <img src="./img/spring-3.svg" width="48" height="48" alt="Spring Boot" />
-      </a>
-      <br>Spring Boot
-    </td>  
     <td align="center" width="96"> 
       <a href="#kevindarbydev-hobby-tech" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
@@ -172,7 +166,13 @@
       </a>
       <br>Python
     </td> 
-    </td>    
+    </td>
+    <td align="center" width="96">
+      <a href="#kevindarbydev-hobby-tech">
+        <img src="./img/mdb.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>   
   </tr>
 </table>
 <!---
